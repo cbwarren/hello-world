@@ -1,1 +1,3 @@
-This is plain text to test Git
+This is plain text to test Git.
+Added this second line of text
+Now I’ve added a third line of text
